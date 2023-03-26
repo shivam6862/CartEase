@@ -94,7 +94,7 @@ The app uses the Redux architecture to manage the state of the shopping cart, wh
 
 Overall, the Redux shopping cart app with frontend in React and backend in Express provides a seamless and secure shopping experience for users.<br/>
 
-<a href="https://github.com/shivam6862/"><img src="https://github.com/shivam6862/CartEase/blob/master/Frontend/public/CartEase.png" style="border-radius:12px"></a>
+<a href="https://github.com/shivam6862/"><img src="https://github.com/shivam6862/CartEase/blob/master/frontend/public/CartEase.png" style="border-radius:12px"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
